@@ -33,7 +33,7 @@
  * to avoid losing it when reconfiguring.
  */
 
-#include "driver_init.h"
+#include "./include/driver_init.h"
 #include <system.h>
 
 /**
