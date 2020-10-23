@@ -6,7 +6,7 @@
         "name": "com.microchip.mcu8.mplab.project.atmega128-rtc-using-asynchronous-timer-mplab",
         "version": "0.0.1",
         "displayName": "Real Time Clock (RTC) Using the Asynchronous Timer",
-        "projectName": "atmega128-rtc-using-asynchronous-timer-mplab",
+        "projectName": "atmega128-rtc-using-asynchronous-timer-mplab-p",
         "shortDescription": "This repository describes how to implement a real time counter (RTC) on microcontrollers featuring the RTC module. The implementation requires only one discrete component – a 32.768kHz watch crystal.",
         "ide": {
             "name": "MPLABX",
